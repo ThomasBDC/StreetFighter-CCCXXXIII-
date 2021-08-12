@@ -64,12 +64,14 @@ class personnage {
     }
   }
   
-  //var guile       = new guile('guile');
-  //var zangief     = new  zangief('zangief');
+  
+  /*  ----->A JOUER dans la console
+  var guile       = new guile('guile');
+  var zangief     = new  zangief('zangief');
   console.log(guile.informations);
   console.log(zangief.informations);
   zangief.attaquer(guile);
   console.log(guile.informations);
   guile.attaquer(zangief);
   console.log(zangief.informations);
-  zangief.coupSpecial(guile);
+  zangief.coupSpecial(guile); */
