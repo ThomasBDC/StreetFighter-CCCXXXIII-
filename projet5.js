@@ -65,13 +65,17 @@ class personnage {
   }
   
   
-  /*  ----->A JOUER dans la console
-  var guile       = new guile('guile');
-  var zangief     = new  zangief('zangief');
-  console.log(guile.informations);
+ // ----->A JOUER dans la console
+  //a voir  pour le bug ---->   
+  //var z1 = new zangrief("test"); z1.attaquer();
+  //var g1 = new guile("test"); z1.attaquer();
+            //ou
+  //var guile       = new guile('guile');
+  //var zangief     = new  zangief('zangief');
+  /* console.log(guile.informations);
   console.log(zangief.informations);
   zangief.attaquer(guile);
   console.log(guile.informations);
   guile.attaquer(zangief);
   console.log(zangief.informations);
-  zangief.coupSpecial(guile); */
+  zangief.coupSpecial(guile);  */
